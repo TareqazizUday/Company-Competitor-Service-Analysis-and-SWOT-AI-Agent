@@ -1,4 +1,4 @@
-# Company Competitor Service Analysis and SWOT Agent
+# Company Competitor Service Analysis and SWOT AI Agent
 
 ## Overview
 This project is a multi-agent system designed to automate company research, competitor analysis, and SWOT analysis. It uses OpenAI's GPT-4 and a set of interconnected agents to extract, analyze, and present actionable insights from a company’s online presence. The application is built using Python, Streamlit, and CrewAI.
